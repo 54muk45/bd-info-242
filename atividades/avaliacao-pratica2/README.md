@@ -76,7 +76,7 @@ OBS: para colar os scripts no terminal do docker é **Control + Shift + V** (no 
 - abrindo o mysql
   - faça **docker exec -it mysql_container mysql -u root -p**
   - ira solicitar a senha
-    - coloque a senha **rootpassword**
+    - coloque a senha **root**
   - apos isso, voce deve estar dentro do mysql
 - entrando no database
   - faça **use mydatabase;**
