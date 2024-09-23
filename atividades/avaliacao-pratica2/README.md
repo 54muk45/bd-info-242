@@ -174,7 +174,7 @@ OBS: para colar os scripts no terminal do docker é **Control + Shift + V** (no 
     conn = mysql.connector.connect(
         host='localhost',
         user='myuser',
-        password='mypassword',
+        password='root',
         database='mydatabase'
     )
 
