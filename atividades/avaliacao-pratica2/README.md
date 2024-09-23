@@ -115,10 +115,10 @@ OBS: para colar os scripts no terminal do docker é **Control + Shift + V** (no 
   - segue abaixo o codigo para popular as tabelas:
     ~~~sql
     -- Inserindo dados na tabela TB_ALUNOS
-    INSERT INTO TB_ALUNOS (nome) VALUES ('Joao Silva');
-    INSERT INTO TB_ALUNOS (nome) VALUES ('Maria Oliveira');
-    INSERT INTO TB_ALUNOS (nome) VALUES ('Carlos Souza');
-    INSERT INTO TB_ALUNOS (nome) VALUES ('Fernanda Costa');
+    INSERT INTO TB_ALUNOS (nome) VALUES ('Taveira');
+    INSERT INTO TB_ALUNOS (nome) VALUES ('Mateus Almeida');
+    INSERT INTO TB_ALUNOS (nome) VALUES ('Ana Carla');
+    INSERT INTO TB_ALUNOS (nome) VALUES ('Tirica');
     INSERT INTO TB_ALUNOS (nome) VALUES ('Bruno Almeida');
     INSERT INTO TB_ALUNOS (nome) VALUES ('Luana Carvalho');
     INSERT INTO TB_ALUNOS (nome) VALUES ('Ricardo Barbosa');
